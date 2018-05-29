@@ -7,7 +7,7 @@ GPG Public Key
 	 Fingerprint=DFFA 853F A6B9 5DBF 185B  9F96 25AC 0345 B929 02AF 
 
 <strong>uid</strong> <span class="uid">LI JIAHAO &lt;lijiahao99131@gmail.com&gt;</span>         
-sig  sig3  <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&amp;fingerprint=on&amp;search=0x25AC0345B92902AF">B92902AF</a> 2018-04-19 __________ __________ <a href="/pks/lookup?op=vindex&amp;fingerprint=on&amp;search=0x25AC0345B92902AF">[selfsig]</a>
+sig  sig3  <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&amp;fingerprint=on&amp;search=0x25AC0345B92902AF">B92902AF</a> 2018-04-19 __________ __________ <a href="https://keyserver.ubuntu.com/pks/lookup?op=vindex&fingerprint=on&search=0x25AC0345B92902AF">[selfsig]</a>
 
 <strong>sub</strong>  2048R/D4AE21F0 2017-03-20            
 sig sbind  <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&amp;fingerprint=on&amp;search=0x25AC0345B92902AF">B92902AF</a> 2018-04-19 __________ __________ <a href="https://keyserver.ubuntu.com/pks/lookup?op=vindex&amp;fingerprint=on&amp;search=0x25AC0345B92902AF">[]</a>
