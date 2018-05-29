@@ -2,38 +2,16 @@
 
 GPG Public Key
 
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
 
-mQENBFjPi8YBCADexcsCUfUQL1dMaG0sirekyC5qEIs3yRmm+MjR6tKWJ9T0eeRH
-rvlP+RM9Tcfm4MCiw6Oma7MotpvL8NjtvXXLdf7keBLz1UblL+SrR9pVTGDt/qoC
-H9sLk/etznDl1GIW0pYimPKlU6tfT8DFY2l71vSDRMGN0QvLLLf2NdyHik+Chlds
-tRReDPwdTjMU/I3jl0A6mhwnQRDOKBbzYDYYNZswk2LLqG8MFHJqT7Q3a1KyVekr
-dzMX3MU3aKWclqQcWGODfRFTp/h5KdemRUJd0q0Zio71oPCAsrEqdfbPauormlLs
-8/RiwLyPWIYBjbRy0AW7XNSY71u8AMtJDLoRABEBAAG0I0xJIEpJQUhBTyA8bGlq
-aWFoYW85OTEzMUBnbWFpbC5jb20+iQFOBBMBCAA4AhsDBQsJCAcCBhUICQoLAgQW
-AgMBAh4BAheAFiEE3/qFP6a5Xb8YW5+WJawDRbkpAq8FAlrYP50ACgkQJawDRbkp
-Aq9TEQgAsDbl+ujHF8lf0/eHC7poWw0pWFC8BIMasQ3bB42g0aFu3PdBjuPb2MOI
-hBzFcq2zEl+YmuhX9OAwPKnAdd0Fg41qGtxnTJ6WxFn23z9DoE0g/lGmMvKjH2W6
-jVAczkbNtnUfOTV3wkMVQ8LiYLXSptgpqwJkRg6GvSah6aSwMPMmGXvV/jaPUk33
-cRIH5xLKr9IGn25X1wpg5Tq4wD7AWqjTB8If8pQliJ1hi2t2T4KDz3w6EioHhR7K
-MtWVEOPlt/gGCltiI6wMOoGEUcexNNDkgKMqUrSa/qz8sOg7nk2z+LFwLhnep6iO
-Gu0tpoKlXlft6iA+VH3TsTc3u3k9vbkBDQRYz4vGAQgAzq4PLfIB1zftY5LZif+3
-Kt6XpSceATjcJt+ynJopDtY4ULZY6lIh9U6TibSoVO+xaY/G6eo1Mf2Y8syqEC+d
-D9VQmvnh+1PQtYmOZl3IavF5KWcc1PRfT2C9qYIMGKr61CKUkWHQ6maH80g0e369
-eenh1TSFafbSb2Go16tuefnu2sdNVqT/2LSGzOzZQAcW8l4SmMZVAOxBcE4boECk
-3evStkvhD+si9G7hdhAxPZVFLFdetqZh186Wpr29AsXWMlpOD1dTIzxEyZRXSQfC
-dc9DyDyjWWNb4WJElJ0BM8+DjLjezEzH36ek9Nmd9q9ToDl87g4h2wMFS0MQoGnJ
-fwARAQABiQE2BBgBCAAgAhsMFiEE3/qFP6a5Xb8YW5+WJawDRbkpAq8FAlrYP8AA
-CgkQJawDRbkpAq9YBwf7BnViS3eEnA0wYaeu4mUOPBYjLbjVL0XhsNpXblUnPkfG
-9bkUDDt4XDoEZFVGNRVEP/C+8GSLE8VV3Zg82RpS+A7gs56brrNcXnqhfmQ4ZZxO
-bgT4r3Pqjxo5gCJGdpFv3pwfSRbfU0XPKWVth40X29m5GarFgeTbSujH5He0AYCZ
-OCK9c62Cz4r0PV1oU3eae27kit+xFnm9e1OR/dzRWIBgWRAIe0Mxwr1h22wOm8xJ
-MLVMLD0gSSdvD7fgP0dIHJ2HnDsPqZxLFVhftr/7vH4oR6qUgI0HVdWRdAxIZAq9
-5lp4MQSw+nRzEbIdpKgkWCFWxx4uBTq2UIfaailPZA==
-=tls6
------END PGP PUBLIC KEY BLOCK-----
-```
+<strong>pub</strong>  2048R/<a href="https://keyserver.ubuntu.com/pks/lookup?op=get&amp;search=0x25AC0345B92902AF">B92902AF</a> 2017-03-20            
+	 Fingerprint=DFFA 853F A6B9 5DBF 185B  9F96 25AC 0345 B929 02AF 
+
+<strong>uid</strong> <span class="uid">LI JIAHAO &lt;lijiahao99131@gmail.com&gt;</span>         
+sig  sig3  <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&amp;fingerprint=on&amp;search=0x25AC0345B92902AF">B92902AF</a> 2018-04-19 __________ __________ <a href="/pks/lookup?op=vindex&amp;fingerprint=on&amp;search=0x25AC0345B92902AF">[selfsig]</a>
+
+<strong>sub</strong>  2048R/D4AE21F0 2017-03-20            
+sig sbind  <a href="https://keyserver.ubuntu.com/pks/lookup?op=get&amp;fingerprint=on&amp;search=0x25AC0345B92902AF">B92902AF</a> 2018-04-19 __________ __________ <a href="https://keyserver.ubuntu.com/pks/lookup?op=vindex&amp;fingerprint=on&amp;search=0x25AC0345B92902AF">[]</a>
+
 
 SSH Public Key
 
@@ -73,67 +51,18 @@ GPG 有很多用途，主要包括签名和加密两部分。
 
 2. 导入
 
-    下载上面的 GPG 公钥，或复制其中的内容保存到一个文本文件，例如 lijiahao.asc，运行下面的命令即可导入我的 GPG 公钥。
+    从公钥服务器中导入
+    
+    ```
+    gpg --keyserver keyserver.ubuntu.com --recv-keys 25AC0345B92902AF
+    ```
+    
+    手动导入
+    
+    复制[这里](https://raw.githubusercontent.com/rikakomoe/hello-world/master/pgp_keys.asc)的内容保存到一个文本文件，例如 lijiahao.asc，运行下面的命令即可导入我的 GPG 公钥。
 
     ```
     gpg --import lijiahao.asc
-    ```
-
-    由于公钥可以自由地传播（例如通过公钥服务器），而签发和上传公钥本身没有任何验证机制（如验证邮箱等），任何人都可以以某人的名义签发公钥，
-    因此程序默认并不会信任你导入的公钥，你需要自行判断公钥是否可信。
-
-    例如：
-
-    + 从可信任的来源获取
-        
-        比如这篇文章也许就是一个可信任的来源，理论上不考虑受到攻击的情况，只有我能发布在这里。因此这篇文章中的公钥应当是可信的。
-        
-    + 从可信任的来源获取指纹，并验证指纹
-    
-        ```
-        gpg --fingerprint lijiahao99131@gmail.com
-        ```
-        运行上面的命令，如果输出的指纹是
-    	
-        ```
-        DFFA 853F A6B9 5DBF 185B  9F96 25AC 0345 B929 02AF
-        ```
-        那么说明导入的公钥是可信的。    
-    
-    
-    要改变对公钥的信任等级，参考下面的命令。不改变的话可能在执行一些事的时候会出来警告，应该问题也不大。
-    
-    ```    
-    alice% gpg --edit-key blake
-
-    pub  1024D/8B927C8A  created: 1999-07-02 expires: never      trust: q/f
-    sub  1024g/C19EA233  created: 1999-07-02 expires: never     
-    (1)  Blake (Executioner) <blake@cyb.org>
-
-    Command> trust
-    pub  1024D/8B927C8A  created: 1999-07-02 expires: never      trust: q/f
-    sub  1024g/C19EA233  created: 1999-07-02 expires: never     
-    (1)  Blake (Executioner) <blake@cyb.org>
-
-    Please decide how far you trust this user to correctly
-    verify other users' keys (by looking at passports,
-    checking fingerprints from different sources...)?
-
-     1 = Don't know
-     2 = I do NOT trust
-     3 = I trust marginally
-     4 = I trust fully
-     s = please show me more information
-     m = back to the main menu
-
-    Your decision? 3
-                    
-    pub  1024D/8B927C8A  created: 1999-07-02 expires: never      trust: m/f
-    sub  1024g/C19EA233  created: 1999-07-02 expires: never     
-    (1)  Blake (Executioner) <blake@cyb.org>
-
-    Command> quit
-    [...]
     ```
 
 3. 加密
@@ -197,4 +126,4 @@ GPG 有很多用途，主要包括签名和加密两部分。
 
 - [How To Set Up SSH Keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
 
-对于 Windows 用户，可以使用 PuTTY，但是我更推荐使用 Git Bash 里的 ssh :wink:
+对于 Windows 用户，Windows 10 1803 起已经自带 openssh。如果你使用的是旧版系统，可以使用 PuTTY，但是我更推荐使用 Git Bash 里的 ssh :wink:
