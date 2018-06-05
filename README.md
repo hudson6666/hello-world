@@ -93,19 +93,19 @@ GPG 有很多用途，主要包括签名和加密两部分。
     如果是我签名的文件，通过以下命令来验证是否是我签名的
    
     ```
-    gpg -v 1.txt.gpg
+    gpg --verify 1.txt.gpg
     ```
 
     如果是我签名的消息，把它粘贴到一个文本文件里，然后通过此命令判断是否是我签名的
    
     ```
-    gpg -v 1.txt.asc
+    gpg --verify 1.txt.asc
     ```
 
     如果是单独的签名文件，把它和源文件一起传入来验证
    
     ```
-    gpg -v 1.zip.gpg 1.zip
+    gpg --verify 1.zip.gpg 1.zip
     ```
 	
 5. 其他
